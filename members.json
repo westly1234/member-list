@@ -1,10 +1,12 @@
 [
   { "userid": "11", 
   "name": "smith", 
-  "phone": "010-4591-6397" 
+  "phone": "010-4591-6397",
+  "language": ["Java", "Python", "C"]
   },
   { "userid": "12", 
   "name": "james", 
-  "phone": "010-1495-2544" 
+  "phone": "010-1495-2544",
+  "language": ["Python"]
   }
 ]
